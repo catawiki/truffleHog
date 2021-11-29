@@ -1,0 +1,4 @@
+- id: trufflehog
+  name: trufflehog
+  entry: trufflehog
+  language: python
