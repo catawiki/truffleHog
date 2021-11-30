@@ -3,4 +3,4 @@
   description: Looks for secrets in code
   language: python
   types: [python]
-  entry: trufflehog
+  entry: truffleHog
