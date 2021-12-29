@@ -1,4 +1,6 @@
 - id: trufflehog
   name: trufflehog
-  entry: trufflehog
+  entry: trufflehog_scan
   language: python
+  types: [python]
+   args: [-lll, --recursive, .]
