@@ -1,6 +1,5 @@
 - id: trufflehog
   name: trufflehog
-  description: Looks for secrets in code
+  entry: trufflehog_scan
   language: python
   types: [python]
-  entry: truffleHog
