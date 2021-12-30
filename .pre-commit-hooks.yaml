@@ -1,4 +1,4 @@
 - id: trufflehog
   name: trufflehog
-  entry: trufflehog_scan
+  entry: trufflehog
   language: python
