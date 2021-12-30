@@ -2,4 +2,3 @@
   name: trufflehog
   entry: trufflehog_scan
   language: python
-  types: [python]
